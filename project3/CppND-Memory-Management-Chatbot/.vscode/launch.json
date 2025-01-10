@@ -34,7 +34,7 @@
             "program": "${workspaceFolder}/build/membot",
             "args": [],
             "environment": [],
-            "stopAtEntry": false,
+            "stopAtEntry": true,
             "cwd": "${workspaceFolder}/build",
             "externalConsole": false,
             "MIMode": "gdb",

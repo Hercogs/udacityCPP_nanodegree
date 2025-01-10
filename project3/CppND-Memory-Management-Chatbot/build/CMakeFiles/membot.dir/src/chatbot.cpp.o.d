@@ -199,6 +199,18 @@ CMakeFiles/membot.dir/src/chatbot.cpp.o: \
  /usr/include/c++/11/bits/unordered_map.h \
  /usr/include/c++/11/bits/erase_if.h /usr/include/c++/11/ctime \
  /home/hercogs/Desktop/udacity_cpp/project3/CppND-Memory-Management-Chatbot/src/chatlogic.h \
+ /usr/include/c++/11/memory \
+ /usr/include/c++/11/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/11/bits/align.h /usr/include/c++/11/bits/unique_ptr.h \
+ /usr/include/c++/11/bits/shared_ptr.h \
+ /usr/include/c++/11/bits/shared_ptr_base.h \
+ /usr/include/c++/11/bits/allocated_ptr.h \
+ /usr/include/c++/11/ext/concurrence.h \
+ /usr/include/c++/11/bits/shared_ptr_atomic.h \
+ /usr/include/c++/11/bits/atomic_base.h \
+ /usr/include/c++/11/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/11/backward/auto_ptr.h \
+ /usr/include/c++/11/pstl/glue_memory_defs.h \
  /home/hercogs/Desktop/udacity_cpp/project3/CppND-Memory-Management-Chatbot/src/chatgui.h \
  /usr/include/wx-3.0/wx/wx.h /usr/include/wx-3.0/wx/defs.h \
  /usr/include/wx-3.0/wx/platform.h /usr/include/wx-3.0/wx/compiler.h \
